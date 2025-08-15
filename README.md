@@ -12,4 +12,5 @@ To use it go to https://greasyfork.org/en/scripts/540121-speech-to-text-for-text
 Enable the extension and try click near a textarea it will show a mic click on it and it will do the work.
 To test visit : https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_textarea
 you will see a mic click on it.
-[have a look](https://raw.githubusercontent.com/Sameer-Kulhari/browser_talks/main/WhatsApp Video 2025-08-15 at 8.09.14 PM.mp4)
+
+[have a look](https://raw.githubusercontent.com/Sameer-Kulhari/browser_talks/main/video.mp4)
