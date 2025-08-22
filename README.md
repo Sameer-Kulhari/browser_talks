@@ -15,3 +15,4 @@ you will see a mic click on it.
 - click on the link below and see the video
 
 [have a look](https://raw.githubusercontent.com/Sameer-Kulhari/browser_talks/main/video.mp4)
+- try refreshing the web and restarting chrome 
